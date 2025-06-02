@@ -1,0 +1,5 @@
+[project]
+name = "pls-cli"
+version = "0.1.0"
+description = "Minimalist and full configurable greetings and TODO list"
+requires-python = ">=3.10"
